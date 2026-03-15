@@ -56,6 +56,13 @@ This project builds a machine learning system that predicts which customers are 
 
 ---
 
+## 📈 Visualizations
+
+![Model Comparison](plots/03_model_comparison.png)
+![SHAP Summary](plots/05_shap_summary.png)
+![ROC Curves](plots/04_roc_curves.png)
+
+---
 
 ## 🔍 SHAP Explainability — Top Churn Drivers
 
