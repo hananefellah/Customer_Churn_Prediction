@@ -179,7 +179,7 @@ jupyter notebook Customer_Churn_Prediction_FINAL_FH.ipynb
 
 ## 👩‍💻 Author
 
-**Fellah Hanane** — Data Scientist
-🌐 [GitHub](https://github.com/hananefellah) · Open to Remote Roles
+**Fellah Hanane** : Data Scientist
+🌐 [GitHub](https://github.com/hananefellah) 
 
-📧 Email: hananefellah35@gmail.com
+📧 Email: hananefellah35@gmail.com · Open to Remote Roles
